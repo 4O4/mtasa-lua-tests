@@ -1,0 +1,7 @@
+<meta>
+	<info author="Pawelo" version="0.0.1" description="Pasting text of length equal to field max length to textboxes bug test" type="script" />
+
+	<script src="client/main.lua" type="client" />
+
+	<oop>true</oop>
+</meta>
