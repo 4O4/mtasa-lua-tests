@@ -1,0 +1,7 @@
+<meta>
+	<info author="Pawelo" version="0.0.1" description="RadarArea APIs negative numbers handling tests" type="script" />
+
+	<script src="shared/main.lua" type="shared" />
+
+	<oop>true</oop>
+</meta>
